@@ -1,2 +1,3 @@
 # ignore all .txt files
 *.txt
+Hi evry one welcome to our event today i want to show you how to add comments in ms 10
